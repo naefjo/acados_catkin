@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>acados_catkin</name>
+  <version>0.0.1</version>
+  <description>Provides a convenient way of integrating acados in catkin projects</description>
+  <maintainer email="naefjo@ethz.ch">Joshua Näf</maintainer>
+  <author>Joshua Näf</author>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
